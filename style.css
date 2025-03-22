@@ -1,0 +1,152 @@
+*{
+    font-family: Cambria;
+    background-color: rgb(31, 21, 21);
+    color: rgb(148, 148, 148);
+    
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-evenly;
+    height: 100px;
+    width: 100%;
+    align-items: center;
+    font-size: 1rem;
+    background-color: rgb(20, 20, 20);
+}
+.box1{
+    background-color: rgb(20, 20, 20);
+    display: flex;
+    font-size: 1.2rem;
+}
+.box2{
+    background-color: rgb(20, 20, 20);
+    display: flex;
+    font-size: 1.2rem;
+}
+.logo1{
+    background-color: rgb(20, 20, 20);
+    border: 2px solid rgb(41, 37, 37);
+    margin-left: 10px;
+    
+}
+.logo2{
+    background-color: rgb(20, 20, 20);
+    border: 2px solid rgb(41, 37, 37);
+    margin-left: 10px;
+}
+.box3{
+    width: 40%;    
+    display: flex;
+    font-size: 1.4rem;
+    /* border: 2px solid rgb(41, 37, 37); */
+    
+}
+input::placeholder{
+    font-size: 1.2rem;
+}
+.logo3{
+    border: 2px solid rgb(41, 37, 37);
+}
+.box4{
+    display: flex;
+    align-items: center;
+    background-color: rgb(20, 20, 20);
+    font-size: 2rem;
+
+}
+.logo4{
+    height: 50px;
+    width: 50px;
+    background-size: contain;
+}
+.hero-image{
+    /* background-image:url(Black-Living-Room-Furniture-scaled-1024x584.jpeg) ; */
+    width: 100%;
+    height: 300px;
+    background-size: contain;
+    margin: 10px;
+    border: 5px solid rgb(20, 20, 20);  
+}
+.top-1{
+    margin-top: 100px;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    
+}
+.image-1{
+    height: 400px;
+    width: 750px;
+    background-size: contain;
+    border: 5px solid rgb(20, 20, 20);  
+    border-radius: 5%;
+}
+.header1{
+    text-align: center;
+}
+.image1-content{
+    flex-direction: row-reverse;
+    height: 400px;
+    width: 750px;
+    font-size: 1.27rem;
+    border: 5px solid rgb(20, 20, 20);  
+    border-radius: 5%;
+    margin-left: 10px;
+}
+.top-2{
+    margin-top: 100px;
+    height: 400px;
+    width: 100%;
+    display: flex;
+}
+.header2{
+        text-align: center;
+}
+.top2-content{
+    height: 400px;
+    width: 750px;
+    font-size: 1.27rem;
+    border: 5px solid rgb(20, 20, 20);  
+    border-radius: 5%;
+}
+.image-2{
+    height: 400px;
+    width: 750px;
+    background-size: contain;
+    border: 5px solid rgb(20, 20, 20);  
+    border-radius: 5%;
+    margin-left: 10px;
+}
+.why-us{
+    margin-top: 50px;
+    height: 70px;
+    width: 50%;
+    text-align: center;
+    font-size: 2rem;
+    /* margin-left: 200px; */
+
+    
+}
+.parent{
+    margin-top: 50px;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.why-content{
+    width: 70%;
+
+}
+.footer{
+    margin-top: 100px;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
